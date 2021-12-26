@@ -13,7 +13,8 @@ export default function Home() {
       <main>
         <Header title="Welcome Happy Hamster Club!" />
         <p className="description">
-    Welcome to Happy Hamster Club.These hamsters are carefully made by hand, so each hamster is unique.5% of the profit are donated to a store full of cute hamsters<code>
+    Welcome to Happy Hamster Club.These hamsters are carefully made by hand, so each hamster is unique.5% of the profit are donated to a store full of cute hamsters!<code>
+    <p className="description">
     COMING SOON WEBSITE!</code>
         </p>
       </main>

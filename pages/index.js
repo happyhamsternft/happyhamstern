@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome Happy Hamster Club!" />
         <p className="description">
-    COMING SOON WEBSITE!<code></code>
+    style="font-size: 55px;">COMING SOON WEBSITE!<code></p>
         </p>
       </main>
 
